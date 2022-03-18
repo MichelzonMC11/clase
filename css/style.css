@@ -1,0 +1,24 @@
+:root{
+    --principal: #7580DB;
+    --secundario: #8A74F2;
+    --masoscuro: #A56FE8;
+    --claro: #74A2F2;
+    --a: #6FBBE8;
+}
+html{
+    background-color: var(--a);
+}
+.titulo{
+    color: var(--masoscuro);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+.nashe{
+    color: var(--secundario);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 40px;
+}
+.a{
+    color: #1828DB;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
